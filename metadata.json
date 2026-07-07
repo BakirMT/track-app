@@ -1,0 +1,6 @@
+{
+  "name": "Tracker",
+  "description": "A modern personal finance tracker with dashboard, transaction ledger, and debt management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

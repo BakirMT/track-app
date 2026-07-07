@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007059368039",
+    "project_id": "accound-bfaf8",
+    "storage_bucket": "accound-bfaf8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007059368039:android:9313eeda2be293c96d3cc2",
+        "android_client_info": {
+          "package_name": "com.aistudio.tracker.fjxwqq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvlYwKODxmdVM_m1GScVOUbS5pyvbs5WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
